@@ -6,6 +6,18 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
 
 [LinkedIn](https://www.linkedin.com/in/alvaro-ruggeri/) · [EverSys Solutions](https://eversyssolutions.com.ar/)
 
+## Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS y Bootstrap" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github&theme=dark&perline=8" alt="PHP, Laravel, MySQL, Git y GitHub" />
+</p>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=58A6FF&background=00000000&width=650&height=45&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Aplicaciones+web+e+integraciones;Software+de+gesti%C3%B3n+%C2%B7+EverSys+Solutions" alt="React, Next.js y TypeScript. Aplicaciones web, integraciones y software de gestión en EverSys Solutions." />
+</p>
+
 ## Trabajo técnico
 
 - Desarrollo frontend con React, Next.js, TypeScript y JavaScript.
