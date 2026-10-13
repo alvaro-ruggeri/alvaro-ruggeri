@@ -1,3 +1,5 @@
+![Alvaro Ruggeri · Arquitectura de software y desarrollo a medida · Cofundador de EverSys Solutions](./portada-eversys-personal.png)
+
 # Alvaro Ruggeri
 
 ### Desarrollo de software · React · Next.js · TypeScript
