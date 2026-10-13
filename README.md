@@ -1,7 +1,5 @@
 ![Alvaro Ruggeri · Arquitectura de software y desarrollo a medida · Cofundador de EverSys Solutions](./portada-eversys-personal.png)
 
-# Alvaro Ruggeri
-
 ### Desarrollo de software · React · Next.js · TypeScript
 
 Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en Córdoba, Argentina. Trabajo junto al equipo en aplicaciones web, sistemas de gestión, automatizaciones e integraciones para empresas.
@@ -10,9 +8,14 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
 
 ## Tecnologías
 
+**Frontend — foco principal**
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS y Bootstrap" />
 </p>
+
+**Backend, datos y colaboración**
+
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github&theme=dark&perline=8" alt="PHP, Laravel, MySQL, Git y GitHub" />
 </p>
@@ -30,16 +33,18 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
 
 Mi experiencia administrativa y contable también aporta contexto para diseñar herramientas que acompañen la operación del negocio.
 
-## Proyectos en equipo
+## Proyectos seleccionados
+
+Desarrollados junto al equipo de EverSys Solutions.
 
 | Proyecto | Alcance |
 | --- | --- |
 | [EverProp](https://github.com/maurocentu26/EverProp-Bellomo) | Plataforma inmobiliaria. Trabajo en desarrollo y revisión de recorridos de leads, asignación y permisos, en colaboración con el equipo. |
-| Arcometal / EverShop | Proyecto de comercio electrónico para Arcometal, desarrollado en colaboración con el equipo de EverSys. |
+| Arcometal / EverShop | Comercio electrónico para Arcometal. Trabajo de desarrollo web en colaboración con el equipo. |
 | Sabores del Norte | Aplicación de pedidos con catálogo administrable, carrito, checkout y seguimiento de estados. |
 | Mogu Drinks | Carta digital, pedidos por WhatsApp y administración de productos, extras y promociones. |
 
-Estos proyectos se desarrollan en el contexto de EverSys. La autoría es compartida y mi participación varía según cada proyecto. Parte del código se mantiene en repositorios privados.
+**Mi aporte:** desarrollo frontend, interfaces responsive, integraciones y revisión de recorridos, según el alcance de cada proyecto. Los repositorios de clientes que no son públicos se mantienen privados.
 
 ## Forma de trabajo
 
