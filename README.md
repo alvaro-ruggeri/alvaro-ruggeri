@@ -11,17 +11,33 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
 **Frontend — foco principal**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS y Bootstrap" />
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React · documentación" /></a>
+  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" title="Next.js · documentación" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript · documentación" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript · documentación" /></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML · documentación" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS · documentación" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS · documentación" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" title="Bootstrap · documentación" /></a>
 </p>
 
 **Backend, datos y colaboración**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github&theme=dark&perline=8" alt="PHP, Laravel, MySQL, Git y GitHub" />
+  <a href="https://www.php.net/docs.php"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" title="PHP · documentación" /></a>
+  <a href="https://laravel.com/docs"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel" title="Laravel · documentación" /></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL · documentación" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git · documentación" /></a>
+  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub · documentación" /></a>
 </p>
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=58A6FF&background=00000000&width=650&height=45&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Aplicaciones+web+e+integraciones;Software+de+gesti%C3%B3n+%C2%B7+EverSys+Solutions" alt="React, Next.js y TypeScript. Aplicaciones web, integraciones y software de gestión en EverSys Solutions." />
 </p>
+
+Cada icono abre su documentación o referencia oficial.
+
+<details>
+<summary><strong>Stack en contexto · usos y responsabilidades</strong></summary>
 
 ## Cómo uso cada tecnología
 
@@ -31,35 +47,45 @@ Mi foco principal está en el frontend. En los proyectos de EverSys también col
 
 | Tecnología | Uso en el trabajo |
 | --- | --- |
-| **HTML** | Estructurar páginas, formularios y contenido con elementos semánticos. |
-| **CSS** | Resolver layouts, adaptación a distintos tamaños de pantalla y estilos de interfaz. |
-| **JavaScript** | Implementar interacciones, eventos, validaciones de interfaz y comunicación con APIs. |
-| **TypeScript** | Explicitar los tipos de datos, las propiedades de componentes y las respuestas esperadas de las APIs para facilitar cambios y detectar incompatibilidades durante el desarrollo. |
-| **React** | Construir componentes reutilizables y gestionar el estado de formularios, filtros y recorridos de usuario. |
-| **Next.js** | Organizar rutas y páginas en aplicaciones React, trabajar con renderizado y carga de datos, y preparar sitios y aplicaciones para su despliegue. |
-| **Tailwind CSS** | Aplicar estilos y variantes responsive de forma consistente dentro de los componentes. |
-| **Bootstrap** | Construir interfaces y paneles administrativos en proyectos que ya utilizan su sistema de componentes y grilla. |
+| **[HTML](https://html.spec.whatwg.org/)** | Estructurar páginas, formularios y contenido con elementos semánticos. |
+| **[CSS](https://www.w3.org/Style/CSS/)** | Resolver layouts, adaptación a distintos tamaños de pantalla y estilos de interfaz. |
+| **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | Implementar interacciones, eventos, validaciones de interfaz y comunicación con APIs. |
+| **[TypeScript](https://www.typescriptlang.org/docs/)** | Explicitar los tipos de datos, las propiedades de componentes y las respuestas esperadas de las APIs para facilitar cambios y detectar incompatibilidades durante el desarrollo. |
+| **[React](https://react.dev/)** | Construir componentes reutilizables y gestionar el estado de formularios, filtros y recorridos de usuario. |
+| **[Next.js](https://nextjs.org/docs)** | Organizar rutas y páginas en aplicaciones React, trabajar con renderizado y carga de datos, y preparar sitios y aplicaciones para su despliegue. |
+| **[Tailwind CSS](https://tailwindcss.com/docs)** | Aplicar estilos y variantes responsive de forma consistente dentro de los componentes. |
+| **[Bootstrap](https://getbootstrap.com/)** | Construir interfaces y paneles administrativos en proyectos que ya utilizan su sistema de componentes y grilla. |
 
 ### Lógica de aplicación y datos
 
 | Tecnología | Uso dentro de los proyectos del equipo |
 | --- | --- |
-| **PHP** | Trabajar con lógica del servidor en aplicaciones y sistemas de gestión basados en este lenguaje. |
-| **Laravel** | Colaborar en aplicaciones que organizan rutas, validaciones, autenticación, permisos y operaciones sobre datos mediante el framework. |
-| **MySQL** | Almacenar y relacionar información operativa, como productos, pedidos, clientes y estados, según el sistema. |
+| **[PHP](https://www.php.net/docs.php)** | Trabajar con lógica del servidor en aplicaciones y sistemas de gestión basados en este lenguaje. |
+| **[Laravel](https://laravel.com/docs)** | Colaborar en aplicaciones que organizan rutas, validaciones, autenticación, permisos y operaciones sobre datos mediante el framework. |
+| **[MySQL](https://dev.mysql.com/doc/)** | Almacenar y relacionar información operativa, como productos, pedidos, clientes y estados, según el sistema. |
 
 ### Versionado y colaboración
 
 | Herramienta | Uso en el trabajo |
 | --- | --- |
-| **Git** | Registrar cambios, trabajar con ramas y coordinar la integración del código del equipo. |
-| **GitHub** | Compartir repositorios, revisar cambios mediante pull requests y mantener documentación junto al código. |
+| **[Git](https://git-scm.com/doc)** | Registrar cambios, trabajar con ramas y coordinar la integración del código del equipo. |
+| **[GitHub](https://docs.github.com/)** | Compartir repositorios, revisar cambios mediante pull requests y mantener documentación junto al código. |
 
 ### Cómo se conectan
 
 Una interfaz de React o Next.js presenta la información y recoge las acciones del usuario. Las integraciones comunican esas acciones con el servidor, que valida los datos y permisos antes de operar sobre la base de datos. Git y GitHub permiten seguir y revisar los cambios durante ese trabajo.
 
 No todos los proyectos combinan estas tecnologías: algunos sistemas utilizan Laravel con Blade para las vistas; otros se apoyan en React y Next.js. Mantener la arquitectura existente y las necesidades del producto guía esa elección.
+
+</details>
+
+## Criterios técnicos
+
+- **Tipos ≠ validación:** TypeScript ayuda durante el desarrollo; los datos externos necesitan validación en ejecución.
+- **Interfaz ≠ autorización:** la operación y el acceso al registro deben comprobarse en el servidor.
+- **Estados explícitos:** carga, error, vacío y éxito forman parte del recorrido de usuario.
+- **Aislamiento entre organizaciones:** en EverProp, la revisión cruza rol, operación y pertenencia del registro.
+- **Cambios revisables:** commits acotados, documentación y revisión de recorridos junto al equipo.
 
 ## Proyectos seleccionados
 
