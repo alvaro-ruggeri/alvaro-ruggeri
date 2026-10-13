@@ -23,15 +23,43 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=58A6FF&background=00000000&width=650&height=45&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Aplicaciones+web+e+integraciones;Software+de+gesti%C3%B3n+%C2%B7+EverSys+Solutions" alt="React, Next.js y TypeScript. Aplicaciones web, integraciones y software de gestión en EverSys Solutions." />
 </p>
 
-## Trabajo técnico
+## Cómo uso cada tecnología
 
-- Desarrollo frontend con React, Next.js, TypeScript y JavaScript.
-- Interfaces responsive, componentes reutilizables y flujos de formularios.
-- Integración con APIs y colaboración en sistemas con PHP, Laravel y MySQL.
-- Relevamiento de necesidades, definición de alcance y seguimiento de entregables.
-- Control de versiones con Git y GitHub, revisión técnica y preparación de despliegues.
+Mi foco principal está en el frontend. En los proyectos de EverSys también colaboro con las integraciones y con aplicaciones que utilizan PHP, Laravel y MySQL. El stack cambia según el alcance y la base existente del proyecto.
 
-Mi experiencia administrativa y contable también aporta contexto para diseñar herramientas que acompañen la operación del negocio.
+### Interfaces y aplicaciones web
+
+| Tecnología | Uso en el trabajo |
+| --- | --- |
+| **HTML** | Estructurar páginas, formularios y contenido con elementos semánticos. |
+| **CSS** | Resolver layouts, adaptación a distintos tamaños de pantalla y estilos de interfaz. |
+| **JavaScript** | Implementar interacciones, eventos, validaciones de interfaz y comunicación con APIs. |
+| **TypeScript** | Explicitar los tipos de datos, las propiedades de componentes y las respuestas esperadas de las APIs para facilitar cambios y detectar incompatibilidades durante el desarrollo. |
+| **React** | Construir componentes reutilizables y gestionar el estado de formularios, filtros y recorridos de usuario. |
+| **Next.js** | Organizar rutas y páginas en aplicaciones React, trabajar con renderizado y carga de datos, y preparar sitios y aplicaciones para su despliegue. |
+| **Tailwind CSS** | Aplicar estilos y variantes responsive de forma consistente dentro de los componentes. |
+| **Bootstrap** | Construir interfaces y paneles administrativos en proyectos que ya utilizan su sistema de componentes y grilla. |
+
+### Lógica de aplicación y datos
+
+| Tecnología | Uso dentro de los proyectos del equipo |
+| --- | --- |
+| **PHP** | Trabajar con lógica del servidor en aplicaciones y sistemas de gestión basados en este lenguaje. |
+| **Laravel** | Colaborar en aplicaciones que organizan rutas, validaciones, autenticación, permisos y operaciones sobre datos mediante el framework. |
+| **MySQL** | Almacenar y relacionar información operativa, como productos, pedidos, clientes y estados, según el sistema. |
+
+### Versionado y colaboración
+
+| Herramienta | Uso en el trabajo |
+| --- | --- |
+| **Git** | Registrar cambios, trabajar con ramas y coordinar la integración del código del equipo. |
+| **GitHub** | Compartir repositorios, revisar cambios mediante pull requests y mantener documentación junto al código. |
+
+### Cómo se conectan
+
+Una interfaz de React o Next.js presenta la información y recoge las acciones del usuario. Las integraciones comunican esas acciones con el servidor, que valida los datos y permisos antes de operar sobre la base de datos. Git y GitHub permiten seguir y revisar los cambios durante ese trabajo.
+
+No todos los proyectos combinan estas tecnologías: algunos sistemas utilizan Laravel con Blade para las vistas; otros se apoyan en React y Next.js. Mantener la arquitectura existente y las necesidades del producto guía esa elección.
 
 ## Proyectos seleccionados
 
