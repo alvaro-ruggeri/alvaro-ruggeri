@@ -6,6 +6,8 @@ Soy desarrollador de software y cofundador de **EverSys Solutions**, con base en
 
 [LinkedIn](https://www.linkedin.com/in/alvaro-ruggeri/) · [EverSys Solutions](https://eversyssolutions.com.ar/)
 
+[`stack`](#tecnologías) · [`engineering`](#criterios-técnicos) · [`projects`](#proyectos-seleccionados) · [`workflow`](#forma-de-trabajo) · [`contact`](#contacto)
+
 ## Tecnologías
 
 **Frontend — foco principal**
@@ -102,7 +104,38 @@ Desarrollados junto al equipo de EverSys Solutions.
 
 ## Forma de trabajo
 
-Parto del proceso que necesita resolver el cliente, defino entregables con el equipo y participo en la implementación y revisión de los recorridos. En sistemas con roles, revisamos las operaciones permitidas y sus restricciones en el servidor, además de la interfaz.
+Parto del proceso que necesita resolver el cliente, defino entregables con el equipo y participo en la implementación y revisión de los recorridos.
+
+### Request lifecycle · esquema conceptual
+
+```mermaid
+flowchart LR
+    UI["Interfaz · React / Next.js"] --> INPUT["Entrada · validación"]
+    INPUT --> AUTH["Servidor · identidad y permisos"]
+    AUTH --> DOMAIN["Reglas de negocio"]
+    DOMAIN --> DATA[("Persistencia")]
+    DATA --> RESPONSE["Respuesta"]
+    RESPONSE --> STATE["UI · éxito, vacío o error"]
+    STATE --> UI
+```
+
+Esquema de responsabilidades para explicar un recorrido web; la implementación concreta depende de cada proyecto.
+
+<details>
+<summary><strong>Notas técnicas · permisos y contratos</strong></summary>
+
+| Límite | Pregunta de revisión |
+| --- | --- |
+| Entrada externa | ¿Qué campos y valores admite esta operación? |
+| Identidad | ¿Quién realiza la petición? |
+| Autorización | ¿Puede ejecutar esta operación sobre este registro? |
+| Organización | ¿El registro pertenece a la organización correspondiente? |
+| Estado | ¿La transición solicitada es válida? |
+| Interfaz | ¿Cómo se representa un rechazo sin perder el contexto del usuario? |
+
+En la revisión de EverProp, el caso de asignación de leads cruza **rol × operación × organización**, incluyendo asesores inactivos y registros de otra organización.
+
+</details>
 
 ## Contacto
 
