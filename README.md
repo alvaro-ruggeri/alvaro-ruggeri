@@ -21,7 +21,7 @@ Mi experiencia administrativa y contable también aporta contexto para diseñar 
 | Proyecto | Alcance |
 | --- | --- |
 | [EverProp](https://github.com/maurocentu26/EverProp-Bellomo) | Plataforma inmobiliaria. Trabajo en desarrollo y revisión de recorridos de leads, asignación y permisos, en colaboración con el equipo. |
-| TYPASS | Sitio y sistema integral de gestión: catálogo, pedidos, clientes, contenido y administración. |
+| Arcometal / EverShop | Proyecto de comercio electrónico para Arcometal, desarrollado en colaboración con el equipo de EverSys. |
 | Sabores del Norte | Aplicación de pedidos con catálogo administrable, carrito, checkout y seguimiento de estados. |
 | Mogu Drinks | Carta digital, pedidos por WhatsApp y administración de productos, extras y promociones. |
 
