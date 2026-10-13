@@ -106,21 +106,6 @@ Desarrollados junto al equipo de EverSys Solutions.
 
 Parto del proceso que necesita resolver el cliente, defino entregables con el equipo y participo en la implementación y revisión de los recorridos.
 
-### Request lifecycle · esquema conceptual
-
-```mermaid
-flowchart LR
-    UI["Interfaz · React / Next.js"] --> INPUT["Entrada · validación"]
-    INPUT --> AUTH["Servidor · identidad y permisos"]
-    AUTH --> DOMAIN["Reglas de negocio"]
-    DOMAIN --> DATA[("Persistencia")]
-    DATA --> RESPONSE["Respuesta"]
-    RESPONSE --> STATE["UI · éxito, vacío o error"]
-    STATE --> UI
-```
-
-Esquema de responsabilidades para explicar un recorrido web; la implementación concreta depende de cada proyecto.
-
 <details>
 <summary><strong>Notas técnicas · permisos y contratos</strong></summary>
 
